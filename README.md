@@ -1,3 +1,12 @@
+# このリポジトリは？
+以下の C++ 入門のチュートリアルを行ってゆくリポジトリである
+
+**ゼロから学ぶ C++**
+
+https://rinatz.github.io/cpp-book/
+
+# 1.2 Hello, World!
+
 main.cpp をコンパイルする
 
 ```
